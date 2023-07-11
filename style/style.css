@@ -128,6 +128,7 @@ background-color: rgba(5, 151, 160, 0.15);
     margin: auto;
     margin-top: 100px;
    background-color: #ada4e4;
+   border-radius: 50px;
 }
 
 
@@ -148,6 +149,7 @@ background-color: rgba(5, 151, 160, 0.15);
     padding: 20px;
     
     
+    
 
 }
 
@@ -155,8 +157,42 @@ background-color: rgba(5, 151, 160, 0.15);
    width: 305px;
    height:300px ;
    margin-right: 10px;
-   border-radius: 10px;
+   border-radius: 30px;
   box-shadow: 13px 13px 13px 13px rgb(215, 207, 207);
   
 }
 /* section-4 css end */
+
+/* section-5 css start */
+ 
+.section5-container1{
+    width: 40%;
+    margin: auto;
+   
+    margin-top: 120px;
+}
+
+.section5-container2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+
+}
+.section5-pics{
+    width: 90px;
+    height:90px;
+    padding: 5px;
+  
+    align-items: center;
+    
+}
+.section5-texts{
+    align-items: center;
+   
+    color: rgb(17, 17, 16);
+    padding: 2px;
+    font-weight: 700;
+    font-size: 14px;
+}
+/* section-5 css end */
