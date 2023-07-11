@@ -78,8 +78,9 @@ height: 810px;
     display: flex;
  
     align-items: center;
-    justify-content: space-around;
+    justify-content: center;
     margin-top: 10px;
+    gap: 30px;
 
 }
 .section3-pic1{
@@ -111,6 +112,51 @@ background-color: rgba(5, 151, 160, 0.15);
 }
 .section3-texts{
     text-align: center;
-    padding: 3px;
+    padding: 1px ;
+    border-bottom: 2px  solid rgb(42, 37, 37);
+    font-weight: 400;
+
+
 }
 /* section-3 css end */
+
+/* section-4 css start */
+
+
+.section4-container1{
+    width: 60%;
+    margin: auto;
+    margin-top: 100px;
+   background-color: #ada4e4;
+}
+
+
+.section4-container2{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    gap: 40px;
+    
+    
+}
+.section4-text{
+    text-align: center;
+    font-weight: 900;
+    font-size: 70px;
+
+    color: tomato;
+    padding: 20px;
+    
+    
+
+}
+
+.section4-pics{
+   width: 305px;
+   height:300px ;
+   margin-right: 10px;
+   border-radius: 10px;
+  box-shadow: 13px 13px 13px 13px rgb(215, 207, 207);
+  
+}
+/* section-4 css end */
