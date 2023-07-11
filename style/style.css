@@ -20,15 +20,15 @@ header{
 }
 .section1-text2{
   color: black;
-    font-size: 10px;
+    font-size: 20px;
   font-weight: 500;
   margin-bottom: 14px;
 }
 .section1-btn{
-   width: 100px;
-   height: 30PX;
+    height: 40px;
+    width: 90px;
    color: white;
-   background-color: #E55473;
+   background-color: #e8335a;
    border: none;
    padding:4px;
 }
@@ -196,3 +196,45 @@ background-color: rgba(5, 151, 160, 0.15);
     font-size: 14px;
 }
 /* section-5 css end */
+
+/* section-6 css start */
+
+
+.section6-container1{
+    margin-top: 100px;
+    background-image: url("../flower asset/gradient3.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+.section6-container2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.section6-text1{
+    font-weight: 800;
+
+font-size: 30px;
+margin-bottom: 10px;
+
+}
+.section6-text2{
+    color: #cd2c4f;
+}
+.section6-text3{
+    font-weight: 400;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.section6-pic{
+    width: 318px;
+height: 420px;
+padding: 20px;
+}
+
+/* section-6 css end */
