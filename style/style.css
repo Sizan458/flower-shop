@@ -24,7 +24,7 @@ header{
   font-weight: 500;
   margin-bottom: 14px;
 }
-.section1-btn{
+.section1-button{
     height: 40px;
     width: 90px;
    color: white;
@@ -128,7 +128,7 @@ background-color: rgba(5, 151, 160, 0.15);
     margin: auto;
     margin-top: 100px;
    background-color: #ada4e4;
-   border-radius: 50px;
+   border-radius:70px;
 }
 
 
@@ -264,3 +264,77 @@ padding: 20px;
 }
 
 /* section-7 css end */
+
+/* section-8 css start */
+
+.section8-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    margin-top:90px ;
+   
+   
+}
+.section8-pics{
+    width: 342px;
+height: 396px;
+border-radius: 30px;
+padding: 4px;
+background-color: hwb(180 21% 76% / 0.777);
+}
+ 
+/* section-8 css end */
+
+/* section-9 css start */
+
+.section9-container1{
+    width: 1440px;
+    height: 449px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+    margin-top: 250px;
+   
+    
+    background-image: url("../flower asset/Rectangle\ 9.png");
+background-repeat: no-repeat;
+
+background-size: cover;
+}
+.section9-container2{
+padding: 400px;
+
+}
+.section9-text1{
+    font-weight: 800;
+    font-size:40px;
+    color: black;
+    margin-bottom: 10px;
+}
+.section9-text2{
+    font-weight: 400;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #27272799;
+   margin-bottom: 10px;
+}
+.section9-input{
+    width: 450px;
+height: 55px;
+border: none;
+color: black;
+padding: 5px;
+margin-right: 10px;
+}
+.section9-button{
+   width: 130px;
+height:55px;
+background-color: #E55473;
+color: white;
+padding: 7px;
+border: none;
+
+}
+/* section-9 css end */
